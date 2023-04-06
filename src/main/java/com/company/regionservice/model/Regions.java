@@ -12,7 +12,7 @@ import java.util.Date;
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-@Entity //buOnemli.xetaVerirdi
+@Entity 
 public class Regions {
 
     @Id
